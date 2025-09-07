@@ -1,16 +1,8 @@
 #include <iostream>
-#include <conio.h>
 
-void main() {
-    int a, b, c;
-    printf("Enter Length of Rectangle: ");
-    scanf("%d", &a);
-    printf("Enter second number: ");
-    scanf("%d", &b);
+using namespace std;
 
-    printf(a*b);
-
-
-
-   
+int main(){
+  cout<< "hello world";
+  return 0;
 }
