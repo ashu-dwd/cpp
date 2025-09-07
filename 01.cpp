@@ -1,6 +1,6 @@
-#include <iostream>
+#include <iostream> //library
 
-using namespace std;
+using namespace std; //standard namespace
 
 int main(){
   cout<< "hello world";
